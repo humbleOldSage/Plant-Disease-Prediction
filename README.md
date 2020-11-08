@@ -1,4 +1,4 @@
-# Plant-Disease-Prediction
+# Plant-Disease-Prediction-Using-Leaf-Lesions
 
 This was our initial solution to the UPES hackathon 2019. We made it to Top 9 teams out of
 
